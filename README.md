@@ -1,6 +1,6 @@
-# INFO 1300(SP26) - Activity - Media Query Practice
+# INFO 1300(SP26) - Activity - Responsive Considerations
 
-In this activity we will practice using media queries to make our site responsive.
+In this activity we will practice using some of the responsive considerations.
 
 This is a practice activity; not for credit. Feel free to expand as inspired.
 
@@ -12,16 +12,7 @@ This is a practice activity; not for credit. Feel free to expand as inspired.
   - the sizing, dimensional constraints, of flexboxes, their child elements, and their content (particularly images)
   - the approach for picture citations
 
-- Sketch a plan for how we want things to respond
-  - header
-  - nav
-  - side-by-side content sections
-- figure out a breakpoint 
-- setup conditional CSS for 
-  - header
-  - nav
-  - side-by-side content sections
-- cleanup the styling for the narrow view
+- See the `snippets.txt`
 
 ## Coding Resources
 
